@@ -5,9 +5,9 @@
 	#three .content .image {
 		border-radius: 100%;
 		display: block;
-		height: 50%;
+		height: 40%;
 		margin: auto;
-		width: 50%;
+		width: 40%;
 	}
 
 	#three .content .image img {
