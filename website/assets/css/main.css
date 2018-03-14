@@ -4,12 +4,10 @@
 
 	#three .content .image {
 		border-radius: 100%;
-		display: inline-block;
-		height: 12em;
-		margin-left: 5em;
-		vertical-align: middle;
-		horizontal-align: middle;
-		width: 12em;
+		display: block;
+		height: 50%;
+		margin: auto;
+		width: 50%;
 	}
 
 	#three .content .image img {
