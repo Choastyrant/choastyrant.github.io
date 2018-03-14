@@ -2521,6 +2521,11 @@
 				width: 100%;
 			}
 
+		.image:hover {
+			opacity: 0.5;
+			filter: alpha(opacity=50); /* For IE8 and earlier */
+		}
+
 /* List */
 
 	ol {
